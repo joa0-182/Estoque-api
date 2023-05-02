@@ -29,6 +29,24 @@
       "email": "Ronan@ronan.com",
       "senha": "ronandabirita",
       "id": 5
+    },
+    {
+      "nome": "jao",
+      "email": "ruimdemais@gmail.com",
+      "senha": "jao123",
+      "id": 6
+    },
+    {
+      "nome": "JBL",
+      "email": "jbl@outlook.com",
+      "senha": "23",
+      "id": 7
+    },
+    {
+      "nome": "JP",
+      "email": "JP@hotmail.com",
+      "senha": "44",
+      "id": 8
     }
   ],
   "pedidos": [
